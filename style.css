@@ -1,0 +1,36 @@
+.header{
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.body-box{
+    margin-top: -20px;
+    background-color: antiquewhite;
+    padding: 10px;
+    min-height: 400px;
+}
+
+.left-box{
+    margin: 30px;
+    max-width: 300px;
+    overflow: auto;
+    float: left;
+}
+
+.mid-box{
+    overflow: auto;
+    margin: 30px;
+    max-width: 300px;
+    float: left;
+    margin-top: 100px;
+
+}
+
+.right-box{
+    overflow: auto;
+    margin: 30px;
+    max-width: 300px;
+    float: left;
+}
